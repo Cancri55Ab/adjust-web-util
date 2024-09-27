@@ -1,0 +1,30 @@
+{
+  "name": "adjust-web-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "publish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cancri55Ab/adjust-web-util.git"
+  },
+  "keywords": [
+    "adjust",
+    "web2web"
+  ],
+  "author": "ydq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cancri55Ab/adjust-web-util/issues"
+  },
+  "homepage": "https://github.com/Cancri55Ab/adjust-web-util#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
